@@ -18,7 +18,7 @@ payload = {
 }
 
 header = {
-    'authorization': 'NDYyOTE4MzQ4MDk1NjE5MDcy.GtPeNx.-Qxj9gFXH_O7SJiqN7Opjtf1mOoqVdNI8IPaz0'
+    'authorization': 'NDYyOTE4MzQ4MDk1NjE5MDcy.GrIqpX.R8ANs1iqSbhfyMNJOKESMOlZ8NKlV-ERz-l-n8'
 }
 
 r = requests.post('https://discord.com/api/v9/channels/1038699651269939240/messages', data=payload, headers=header, files=file)
